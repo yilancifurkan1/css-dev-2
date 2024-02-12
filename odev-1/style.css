@@ -1,0 +1,67 @@
+.container {
+    display: flex;
+    justify-content: center;
+}
+
+.br {
+    border: 5px solid black;
+    border-radius: 10px;
+    padding: 20px;
+    width: 800px;
+    text-align: center;
+}
+
+.buton {
+    background-color: darkgoldenrod;   
+    height: 100px;    
+    border-radius: 10px;
+    width: 500px;
+    }
+
+.icons {
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+}
+
+.icons1, .icons2, .icons3, .icons4 {
+    justify-content: center;  
+    border: 3px solid black;
+    border-radius: 70px;
+    margin-top: 10px;
+    padding: 10px;
+}
+
+.icons1 {
+    background-color: aqua;
+    color: black;
+}
+
+.icons2 {
+    background-color: gray;
+    color: black;
+}
+
+.icons3 {
+    background-color: blueviolet;
+    color: black;
+}
+
+.icons4 {
+    background-color:darksalmon;
+    color: black;
+}
+
+.images {
+    text-align: center;
+}
+
+.images img {
+    border: 2px solid black;
+    margin-top: 15px;
+    border-radius: 10px;
+}
+
+.aciklama {
+    text-align: center;
+}
